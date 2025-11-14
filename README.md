@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📘 Aplikasi Catatan Harian  
-### Java Swing — UTS Pemrograman Berorientasi Objek  
+### UTS Pemrograman Berorientasi Objek  
 **Oleh: Muhammad Maulana — 2310010375 - 5C Reg Bjm**
 
 </div>
@@ -79,3 +79,4 @@ Override method:
 public String toString() {
     return judul;
 }
+<img width="713" height="493" alt="image" src="https://github.com/user-attachments/assets/26922011-8804-4290-8fb1-c644fe325909" />
